@@ -57,4 +57,4 @@ Pump negative goes directly to power supply ground.
 ---
 
 ## License
-MIT License — free to use and modify.
+ free to use and modify.
